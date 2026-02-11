@@ -1,6 +1,6 @@
-variable "sentinel_data_connector_azure_active_directorys" {
+variable "sentinel_data_connector_azure_active_directories" {
   description = <<EOT
-Map of sentinel_data_connector_azure_active_directorys, attributes below
+Map of sentinel_data_connector_azure_active_directories, attributes below
 Required:
     - log_analytics_workspace_id
     - name
